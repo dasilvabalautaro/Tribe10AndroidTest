@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tribe10AndroidTest</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="empty_fields">Please complete all fields.</string>
+    <string name="img_description">Captured image.</string>
+    <string name="create_report">Create report</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_save_history">Save history</string>
+    <string name="lbl_list_history">List of histories</string>
+    <string name="lbl_list_empty">The list is empty</string>
+    <string name="lbl_click_photo">Click to photo</string>
+    <string name="lbl_clear">Clear fields</string>
+</resources>
